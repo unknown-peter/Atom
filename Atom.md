@@ -39,3 +39,4 @@ File - settings - Install
 ## 常用快捷键
 
 　　**ctrl-shift-f5**  重载
+　　**ctrl-shift-D**  复制到下一行
